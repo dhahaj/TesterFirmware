@@ -1,0 +1,17 @@
+{
+	"name": "Tester",
+	"frameworks": "Arduino",
+	"keywords": "Testing",
+	"description": "Tester library for use in the production testing equipment.",
+	"url": "https://github.com/dhahaj/TesterFirmware",
+	"authors": [{
+		"name": "Daniel Hahaj"
+	},
+	{
+		"name": "Daniel Hahaj"
+	}],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dhahaj/TesterFirmware"
+	}
+}

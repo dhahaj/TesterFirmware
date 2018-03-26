@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For MicroNMEA
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Tester		KEYWORD1
+Pin			KEYWORD1
+Result		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init					KEYWORD2
+endTest					KEYWORD2
+beginTest				KEYWORD2
+cancelTest				KEYWORD2
+isTesting				KEYWORD2
+getResults				KEYWORD2
+getPin					KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+TEST_IND	LITERAL1
+RELAY4		LITERAL1
+RELAY3		LITERAL1
+RELAY2		LITERAL1
+RELAY1		LITERAL1
+OKC			LITERAL1
+RELAY_IN	LITERAL1
+PAD			LITERAL1
+REMOTE		LITERAL1
+TEST_MODE	LITERAL1
+LOW_BATT	LITERAL1
+PASSED		LITERAL1
+FAILED		LITERAL1
+CANCELLED	LITERAL1
